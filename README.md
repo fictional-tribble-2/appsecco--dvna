@@ -1,5 +1,7 @@
 # Damn Vulnerable NodeJS Application (DVNA) 
 
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/appsecco--dvna.svg)](https://www.staging.guardrails.io)
+
 ![dvna-logo](docs/resources/dvna.png)
 
 Damn Vulnerable NodeJS Application (DVNA) is a simple NodeJS application to demonstrate [**OWASP Top 10 Vulnerabilities**](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project#OWASP_Top_10_for_2013) and guide on fixing and avoiding these vulnerabilities. The [fixes](https://github.com/appsecco/dvna/tree/fixes) branch will contain fixes for the vulnerabilities.
