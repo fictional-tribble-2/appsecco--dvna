@@ -1,6 +1,6 @@
 # Damn Vulnerable NodeJS Application (DVNA) 
 
-[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/appsecco--dvna.svg)](https://www.staging.guardrails.io)
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/appsecco--dvna.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/appsecco--dvna.svg)](https://www.guardrails.io)
 
 ![dvna-logo](docs/resources/dvna.png)
 
